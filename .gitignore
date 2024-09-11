@@ -4,6 +4,8 @@
 *.filters
 *.user
 
+*.o
+
 .vs/
 .vscode/
 
