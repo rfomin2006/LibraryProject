@@ -1,0 +1,13 @@
+*.sln
+
+*.vcxproj
+*.filters
+*.user
+
+.vs/
+.vscode/
+
+x64/
+x86/
+
+build/
